@@ -3,23 +3,28 @@
 Welcome to my GitHub profile! I'm a passionate developer eager to learn and grow in the IT sector.
 
 ### 💻 Skills
-- **HTML** 📝  
-  <span style="color:orange;">HTML5</span>
 
-- **CSS** 🎨  
-  <span style="color:blue;">CSS3</span>, <span style="color:purple;">Flexbox</span>, <span style="color:green;">Grid</span>
+#### HTML5
+<div style="width: 100%; background-color: #e0e0e0; border-radius: 5px; margin: 5px 0;">
+  <div style="width: 90%; background-color: #f39c12; padding: 5px; color: white; text-align: center; border-radius: 5px;">90%</div>
+</div>
 
-- **JavaScript** ⚡  
-  <span style="color:yellow;">ES6+</span>, <span style="color:red;">Async/Await</span>
+#### CSS3
+<div style="width: 100%; background-color: #e0e0e0; border-radius: 5px; margin: 5px 0;">
+  <div style="width: 80%; background-color: #3498db; padding: 5px; color: white; text-align: center; border-radius: 5px;">80%</div>
+</div>
 
-- **React** ⚛️  
-  <span style="color:cyan;">React.js</span>, <span style="color:limegreen;">React Router</span>, <span style="color:darkviolet;">React Hooks</span>
+#### JavaScript
+<div style="width: 100%; background-color: #e0e0e0; border-radius: 5px; margin: 5px 0;">
+  <div style="width: 85%; background-color: #2ecc71; padding: 5px; color: white; text-align: center; border-radius: 5px;">85%</div>
+</div>
 
-### 🔧 Tools & Technologies
-- **Version Control:** Git, GitHub
-- **Code Editor:** VS Code
-- **Package Managers:** npm, yarn
-- **Browser:** Chrome, Firefox
+#### React.js
+<div style="width: 100%; background-color: #e0e0e0; border-radius: 5px; margin: 5px 0;">
+  <div style="width: 75%; background-color: #9b59b6; padding: 5px; color: white; text-align: center; border-radius: 5px;">75%</div>
+</div>
+
+---
 
 ### 📍 Currently Learning
 - Advanced React and Web Development
@@ -34,4 +39,5 @@ Welcome to my GitHub profile! I'm a passionate developer eager to learn and grow
 ---
 
 Thank you for visiting my profile! Let's connect and collaborate on awesome projects. 🚀
+
 
