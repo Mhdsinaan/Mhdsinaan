@@ -5,24 +5,16 @@ Welcome to my GitHub profile! I'm a passionate developer eager to learn and grow
 ### 💻 Skills
 
 #### HTML5
-<div style="width: 100%; background-color: #e0e0e0; border-radius: 5px; margin: 5px 0;">
-  <div style="width: 90%; background-color: #f39c12; padding: 5px; color: white; text-align: center; border-radius: 5px;">90%</div>
-</div>
+[![HTML5](https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/TR/html5/)
 
 #### CSS3
-<div style="width: 100%; background-color: #e0e0e0; border-radius: 5px; margin: 5px 0;">
-  <div style="width: 80%; background-color: #3498db; padding: 5px; color: white; text-align: center; border-radius: 5px;">80%</div>
-</div>
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 
 #### JavaScript
-<div style="width: 100%; background-color: #e0e0e0; border-radius: 5px; margin: 5px 0;">
-  <div style="width: 85%; background-color: #2ecc71; padding: 5px; color: white; text-align: center; border-radius: 5px;">85%</div>
-</div>
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 #### React.js
-<div style="width: 100%; background-color: #e0e0e0; border-radius: 5px; margin: 5px 0;">
-  <div style="width: 75%; background-color: #9b59b6; padding: 5px; color: white; text-align: center; border-radius: 5px;">75%</div>
-</div>
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 
 ---
 
@@ -39,5 +31,3 @@ Welcome to my GitHub profile! I'm a passionate developer eager to learn and grow
 ---
 
 Thank you for visiting my profile! Let's connect and collaborate on awesome projects. 🚀
-
-
