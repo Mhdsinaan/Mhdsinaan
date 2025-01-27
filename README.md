@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Muhammed Sinan 👋
 
-<!--
-**Mhdsinaan/Mhdsinaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer eager to learn and grow in the IT sector.
 
-Here are some ideas to get you started:
+### 💻 Skills
+- **HTML** 📝  
+  <span style="color:orange;">HTML5</span>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **CSS** 🎨  
+  <span style="color:blue;">CSS3</span>, <span style="color:purple;">Flexbox</span>, <span style="color:green;">Grid</span>
+
+- **JavaScript** ⚡  
+  <span style="color:yellow;">ES6+</span>, <span style="color:red;">Async/Await</span>
+
+- **React** ⚛️  
+  <span style="color:cyan;">React.js</span>, <span style="color:limegreen;">React Router</span>, <span style="color:darkviolet;">React Hooks</span>
+
+### 🔧 Tools & Technologies
+- **Version Control:** Git, GitHub
+- **Code Editor:** VS Code
+- **Package Managers:** npm, yarn
+- **Browser:** Chrome, Firefox
+
+### 📍 Currently Learning
+- Advanced React and Web Development
+- Full Stack Development
+- TypeScript
+
+### 📚 Check out some of my work
+- [Portfolio Website](your-portfolio-link.com)
+- [Project 1](your-project-link.com)
+- [Project 2](your-project-link.com)
+
+---
+
+Thank you for visiting my profile! Let's connect and collaborate on awesome projects. 🚀
+
