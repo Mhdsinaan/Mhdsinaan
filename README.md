@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate developer eager to learn and grow
 ### 📍 Currently Learning
 - Advanced React and Web Development
 - Full Stack Development
-- TypeScript
+  
 
 ### 📚 Check out some of my work
 - [Portfolio Website](your-portfolio-link.com)
